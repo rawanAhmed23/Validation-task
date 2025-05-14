@@ -1,0 +1,25 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Tagesschrift&display=swap'); */
+
+/* font-family: "Tagesschrift", system-ui; */
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: #f5f6fe;
+}
+
+.register-home i{
+    font-size: 19px;
+    top: 9px;
+    left: 14px;
+    color: #2563df;
+    border-right: 1px solid rgb(223, 223, 223);
+    padding: 0px 5px;
+}
+
+.rawan{
+    transition: 0.5s;
+}
